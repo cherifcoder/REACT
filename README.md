@@ -1,5 +1,7 @@
 # React Atelier
 
+> **Démo en ligne :** [20261114reactcourses.vercel.app](https://20261114reactcourses.vercel.app)
+
 Une plateforme d'apprentissage **francophone** pour maîtriser React par la pratique : six modules détaillés, soixante projets progressifs, cinq applications guidées et la reconstruction complète du site **DataSahel** comme projet final.
 
 Le site est lui-même une application React, pas un document statique : navigation, recherche globale, suivi de progression et thème clair/sombre.
